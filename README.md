@@ -5,7 +5,9 @@
 
 [![Wendell Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellmarcos)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellmarcos&hide=contribs,prs)
+![Wendell Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellmarcos&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellmarcos&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
