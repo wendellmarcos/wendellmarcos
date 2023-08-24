@@ -43,11 +43,12 @@
 
 <hr>
 
+#### Engenharia de Software | Software Engineering (Em andamento - In progress)
 #### Digital Innovation One (DIO) - Java Beginners
-#### Centro Universitário Senac - Técnico em Desenvolvimento de Sistemas (Em andamento)
-#### EBAC - Escola Britânica de Artes Criativas e Tecnologia - Especialista Back-End Java (Em andamento)
+#### Centro Universitário Senac - Técnico em Desenvolvimento de Sistemas (Em andamento - In progress)
+#### EBAC - Escola Britânica de Artes Criativas e Tecnologia - Especialista Back-End Java (Em andamento - In progress)
 #### DIO - Sistemas de Gerenciamento de Banco de Dados
-#### Clever English School - Estudante de Inglês Avançado (Em andamento)
+#### Clever English School - Estudante de Inglês Avançado (Em andamento - In progress)
 
 
 <hr>
