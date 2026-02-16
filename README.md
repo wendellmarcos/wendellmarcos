@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 # Olá, eu sou o Dev Wendell Marcos 👋
 
@@ -12,8 +12,8 @@ Engenheiro de Software focado em construção de produtos SaaS, APIs robustas e 
 
 ## GitHub em números
 
-![Wendell Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=wendellmarcos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmarcos&layout=compact&theme=highcontrast&langs_count=8)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendellmarcos&theme=radical)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendellMarcosGrupoTotal&theme=tokyonight)
 
 ---
 
